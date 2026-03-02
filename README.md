@@ -63,14 +63,13 @@
 
 <div align="center">
   <h3>🐍 My GitHub Contributions</h3>
-  <img src="https://komarev.com/ghpvc/?username=Piers18&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/Piers18/Piers18/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_REAL&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Piers18&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views" />
   <br><br>
-  <h3>⭐ Don't forget to star my repositories if you find them useful!</h3>
   <p>💻 Building scalable systems & solving algorithms from Peru 🇵🇪</p>
 </div>
