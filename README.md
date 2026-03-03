@@ -71,5 +71,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Piers18&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views" />
   <br><br>
-  <p>💻 Building scalable systems & solving algorithms from Peru 🇵🇪</p>
+  <p>💻 Building scalable systems & solving algorithms 🇵🇪</p>
 </div>
