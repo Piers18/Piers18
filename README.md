@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://pieroaguilardev.xyz/">
-    <img src="https://img.shields.io/badge/Portfolio-pieroaguilardev.xyz-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <a href="https://pieroaguilar.me/">
+    <img src="https://img.shields.io/badge/Portfolio-pieroaguilar.me-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/piero-antonio-aguilar-anticona-336214228/">
     <img src="https://img.shields.io/badge/LinkedIn-Piero%20Aguilar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -41,38 +41,22 @@ I build **reliable software and the infrastructure that makes it scale**. My bac
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <b>AI, Data & Backend</b><br><br>
-      <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,mongodb,go,java,spring,dotnet&perline=4" alt="Python, FastAPI, PostgreSQL, MongoDB, Go, Java, Spring and .NET" />
+      <b>AI Engineering</b><br><br>
+      <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mongodb&perline=4" alt="Python, FastAPI, PostgreSQL and MongoDB" />
+      <br><br>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
     </td>
     <td align="center" width="33%" valign="top">
       <b>Software Engineering</b><br><br>
-      <img src="https://skillicons.dev/icons?i=cs,typescript,angular,react,nodejs,express,cpp,git&perline=4" alt="C#, TypeScript, Angular, React, Node.js, Express, C++ and Git" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,go,ts,angular,react,nodejs,express,cpp,git&perline=4" alt="C#, .NET, Java, Spring, Go, TypeScript, Angular, React, Node.js, Express, C++ and Git" />
     </td>
     <td align="center" width="33%" valign="top">
       <b>DevOps & Infrastructure</b><br><br>
-      <img src="https://skillicons.dev/icons?i=azure,docker,linux,bash,githubactions,git&perline=3" alt="Azure, Docker, Linux, Bash, GitHub Actions and Git" />
+      <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,grafana,prometheus,azure,aws,gcp,linux,bash,githubactions&perline=4" alt="Kubernetes, Docker, Terraform, Ansible, Grafana, Prometheus, Azure, AWS, Google Cloud, Linux, Bash and GitHub Actions" />
     </td>
   </tr>
 </table>
-
----
-
-### 🚀 Selected Work
-
-<p align="center">
-  <a href="https://github.com/Piers18/personal-portfolio">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Piers18&repo=personal-portfolio&theme=transparent&hide_border=true&title_color=2563EB&text_color=64748B&icon_color=06B6D4" alt="Personal Portfolio repository" />
-  </a>
-  <a href="https://github.com/Piers18/Coffe-Card">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Piers18&repo=Coffe-Card&theme=transparent&hide_border=true&title_color=2563EB&text_color=64748B&icon_color=06B6D4" alt="Coffe-Card repository" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Piers18?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20all%20repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Explore all repositories" />
-  </a>
-</p>
 
 ---
 
