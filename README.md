@@ -1,91 +1,113 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hello, I'm Piero Aguilar
+<!--
+  GitHub Profile README for @Piers18
+  Focus: AI Engineering, Software Engineering & DevOps
+-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=34&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=700&height=80&lines=Software+Engineer;Full-Stack+Developer;Competitive+Programmer;Problem+Solver" alt="Typing SVG" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Piero%20Aguilar&fontColor=ffffff&fontSize=72&fontAlignY=35&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20DevOps&descSize=22&descAlignY=56&animation=fadeIn"
+    alt="Piero Aguilar — AI Engineer, Software Engineer and DevOps"
+  />
 </p>
 
-<div align="center">
-  <h3>Software Engineer focused on scalable systems, clean architecture, and practical solutions</h3>
-  <p style="font-family: 'Outfit', sans-serif; font-size: 18px; color: #64748b; max-width: 900px;">
-    I design and build maintainable web applications with a strong emphasis on backend architecture, API design, performance, and long-term code quality. 
-    I enjoy working across the stack, adapting to different technical contexts, and turning ideas into reliable products.
-  </p>
-</div>
-
----
-
-## 🛠️ My Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</div>
-
----
-
-## About Me
-
-- I build full-stack applications with a focus on scalability, maintainability, and business value.
-- I have experience working with backend services, REST APIs, relational databases, and modern frontend frameworks.
-- I also have knowledge in Data Science, including data analysis and data processing for solving analytical problems.
-- I strengthen my algorithmic thinking through competitive programming and problem solving.
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-  <p font-size="16px">Open to discussing software engineering, backend systems, full-stack development, and algorithmic problem solving.</p>
-  <br>
-  <a href="mailto:pieroaguilaranticonajob@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<p align="center">
+  <a href="https://pieroaguilardev.xyz/">
+    <img src="https://img.shields.io/badge/Portfolio-pieroaguilardev.xyz-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/piero-antonio-aguilar-anticona-336214228/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/piero-antonio-aguilar-anticona-336214228/">
+    <img src="https://img.shields.io/badge/LinkedIn-Piero%20Aguilar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/Antonio018/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="mailto:pieroaguilaranticonajob@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://codeforces.com/profile/Antonio0" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-</div>
+</p>
 
 ---
 
-<div align="center">
-  <h3>🐍 My GitHub Contributions</h3>
-  <img src="https://raw.githubusercontent.com/Piers18/Piers18/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+### 🏛️ Engineering Vision
+
+I build **reliable software and the infrastructure that makes it scale**. My background in full-stack development gives me an end-to-end view of products, while I continue specializing in **AI engineering, cloud infrastructure, automation, and DevOps practices**.
+
+- 🤖 **AI Engineering:** Building intelligent solutions, data-driven services, and reliable foundations for AI-powered products.
+- 🧱 **Software Engineering:** Clean architecture, scalable backend systems, API design, and maintainable full-stack applications.
+- ☁️ **DevOps & Infrastructure:** Cloud environments, containers, CI/CD automation, observability, and dependable delivery workflows.
+- 🔭 **Current direction:** Deepening my expertise in infrastructure, platform engineering, and production-ready AI systems.
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Piers18&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views" />
-  <br><br>
-  <p>Building reliable systems and solving complex problems.</p>
-</div>
+### 🧰 Engineering Toolkit
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <b>AI, Data & Backend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,mongodb,go,java,spring,dotnet&perline=4" alt="Python, FastAPI, PostgreSQL, MongoDB, Go, Java, Spring and .NET" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>Software Engineering</b><br><br>
+      <img src="https://skillicons.dev/icons?i=cs,typescript,angular,react,nodejs,express,cpp,git&perline=4" alt="C#, TypeScript, Angular, React, Node.js, Express, C++ and Git" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>DevOps & Infrastructure</b><br><br>
+      <img src="https://skillicons.dev/icons?i=azure,docker,linux,bash,githubactions,git&perline=3" alt="Azure, Docker, Linux, Bash, GitHub Actions and Git" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Selected Work
+
+<p align="center">
+  <a href="https://github.com/Piers18/personal-portfolio">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Piers18&repo=personal-portfolio&theme=transparent&hide_border=true&title_color=2563EB&text_color=64748B&icon_color=06B6D4" alt="Personal Portfolio repository" />
+  </a>
+  <a href="https://github.com/Piers18/Coffe-Card">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Piers18&repo=Coffe-Card&theme=transparent&hide_border=true&title_color=2563EB&text_color=64748B&icon_color=06B6D4" alt="Coffe-Card repository" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Piers18?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20all%20repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Explore all repositories" />
+  </a>
+</p>
+
+---
+
+### 🧠 Continuous Problem Solving
+
+Alongside my main engineering focus, I occasionally practice competitive programming to keep strengthening my algorithmic thinking and ability to design efficient solutions.
+
+<p align="center">
+  <a href="https://leetcode.com/u/Antonio018/">
+    <img src="https://img.shields.io/badge/LeetCode-Antonio018-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
+  </a>
+  <a href="https://codeforces.com/profile/Antonio0">
+    <img src="https://img.shields.io/badge/Codeforces-Antonio0-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile" />
+  </a>
+</p>
+
+---
+
+### 🤝 Let's Build Something Meaningful
+
+<p align="center">
+  I'm open to conversations about software engineering, backend systems,<br>
+  AI-powered products, cloud infrastructure, DevOps, and platform engineering.
+</p>
+
+<p align="center">
+  <a href="mailto:pieroaguilaranticonajob@gmail.com">
+    <img src="https://img.shields.io/badge/Get%20in%20touch-2563EB?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Get in touch" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Piers18&style=flat-square&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<p align="center">
+  <sub>Building intelligent software and the infrastructure that helps it scale.</sub>
+</p>
