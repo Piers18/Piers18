@@ -31,9 +31,9 @@
 
 - ☁️ **DevOps & Cloud Infrastructure:** Designing and automating scalable environments with Kubernetes, Docker, Terraform, Linux, AWS, and dependable CI/CD pipelines.
 
-- 🤖 **MLOps & AI Engineering:** Building reliable deployment pipelines, infrastructure, and intelligent services for AI-powered applications.
+- 🤖 **MLOps & AI Engineering:** Automating ML lifecycles, model deployment, experiment tracking, and building scalable AI services in production.
 
-- 🧱 **Backend Foundation:** Strong software engineering background in **Java, Spring Boot, .NET/C#, and Python**, allowing me to bridge development and operations seamlessly.
+- 🧱 **Backend Foundation:** Strong software engineering background in **Java, Spring Boot, .NET/C#, and Python**, allowing me to bridge development, data, and operations seamlessly.
 
 - 🔭 **Current direction:** Deepening my expertise in cloud-native infrastructure, Infrastructure as Code (IaC), platform engineering, and production-ready MLOps workflows.
 
@@ -49,14 +49,19 @@
     </td>
     <td align="center" width="33%" valign="top">
       <b>MLOps & AI Engineering</b><br><br>
-      <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mongodb&perline=4" alt="Python, FastAPI, PostgreSQL and MongoDB" />
+      <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,postgres&perline=4" alt="Python, PyTorch, FastAPI and PostgreSQL" />
       <br><br>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+      <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC" />
+      <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubeflow" />
+      <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
       <img src="https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
     </td>
     <td align="center" width="33%" valign="top">
-      <b>Backend & Software Dev</b><br><br>
-      <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,go,ts,nodejs,git&perline=4" alt="Java, Spring Boot, C#, .NET, Go, TypeScript, Node.js and Git" />
+      <b>Backend & Databases</b><br><br>
+      <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,go,ts,nodejs,mongodb,git&perline=3" alt="Java, Spring Boot, C#, .NET, Go, TypeScript, Node.js, MongoDB and Git" />
     </td>
   </tr>
 </table>
