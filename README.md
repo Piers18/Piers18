@@ -49,7 +49,7 @@
     </td>
     <td align="center" width="33%" valign="top">
       <b>MLOps & AI Engineering</b><br><br>
-      <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mongodb&perline=4" alt="Python, FastAPI, PostgreSQL and MongoDB" />
+      <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,fastapi,postgres,mongodb&perline=3" alt="Python, PyTorch, Scikit-Learn, FastAPI, PostgreSQL and MongoDB" />
       <br><br>
       <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
       <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubeflow" />
